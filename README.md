@@ -1,2 +1,2 @@
-# CS691-Spring2025-Team - 9
+# CS691-Spring2025-Team 
 Team - 9 Capstone Project
